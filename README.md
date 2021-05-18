@@ -7,13 +7,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and working on web software projects and research work.
-- 🎓 &nbsp; Studying Computer Science Engineering at Kalinga Institute of Industrial Technology.
-- 💼 &nbsp; Working as a Web Developer at KIIT Mechatronics Society.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- 📚 &nbsp; Learning new things, self driven, hard working and friendly.😃
-- ✍️ &nbsp; Pursuing UI/UX Design as hobbies/side hustles.
-- 🔌 &nbsp; *My GOAL: is to work as a R&D Engineer in a leading Tech company in California*. 
+- 🤔 &nbsp; I love to explore new technologies and work on Full Stack Developement projects and Machine Learning projects .
+- 🎓 &nbsp; Pursuing Masters in CSE from IIIT Banglore.
+- 🔌 &nbsp; *My GOAL: is to work as a R&D Engineer in a leading Tech company. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -22,8 +18,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
  
  
 - 🛢 &nbsp;
