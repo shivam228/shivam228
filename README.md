@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>I'm Shivam Jain.</h2>
-<h4>I am a Software developer and Machine Lerning enthusiastic.</h4>
+<h4>I am a Post Graduate student at IIITB.</h4>
 
 
 
